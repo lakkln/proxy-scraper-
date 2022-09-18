@@ -12,3 +12,4 @@ Other
 
 # Github: https://github.com/swattinghouses
 (shitty MD template ik)
+# credits to uy#8103
